@@ -1,0 +1,32 @@
+ body,
+    html {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        background: rgb(228, 234, 236) !important;
+    }
+    .buttons {
+        height: 400px;
+        width: 700px;
+        margin-top: auto;
+        margin-bottom: auto;
+        background: #ffffff;
+        justify-content: center;
+        flex-direction: column;
+        padding: 10px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        -moz-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        border-radius: 5px;
+    }
+    p {
+        font-family: 'Montserrat', sans-serif;
+
+    }
+    .btn {
+        size: 50px;
+    }
+    .btn-dark:hover {
+        background: white;
+        color: black;
+    }

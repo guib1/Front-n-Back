@@ -1,0 +1,45 @@
+body{
+    margin-bottom: 110px;
+}
+
+.cards{
+    margin-top: 20px;
+    padding-left: 280px !important;
+    padding-right: 280px !important;
+}
+
+.card1, .card2, .card3{
+    width: 100%;
+    height: 100%;
+}
+
+.ipcm{
+    position:relative;
+    bottom: -60px;
+}
+
+.dt{
+    position:relative;
+    bottom: -45px;
+}
+
+.mini{
+    font-size: 17px;
+}
+
+.mini-title{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.aceitar{
+    background-color: #f44336; 
+    color: white;
+    border-radius: 12px;
+    transition-duration: 0.4s;
+}
+
+.aceitar:hover{
+    background-color: white; 
+    color: black;
+}

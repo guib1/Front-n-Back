@@ -1,0 +1,58 @@
+.cards{
+    margin-top: 20px;
+    padding-left: 90px !important;
+    padding-right: 90px !important;
+}
+
+
+.comprar{
+    margin-top: 260px;
+    margin-left: 550px;
+    font-size: 24px;
+    background-color: #f44336; 
+    color: white;
+    border-radius: 20px;
+    transition-duration: 0.4s;
+    
+}
+
+.card1 {
+    height: 100%;
+}
+
+.comprar:hover{
+    background-color: white; 
+    color: black;
+    
+}
+
+.titulo{
+    font-size: 30px;
+    margin-right: 100px;
+}
+
+.mini{
+    font-size: 15px;
+    margin-right: 660px;
+}
+
+.desc{
+    font-size: 18px;
+    margin-top: -265px;
+    margin-right: 600px;
+    font-weight: bold;
+}
+
+.valor{
+    font-size: 18px;
+    margin-top: -80px;
+    margin-right: -550px;
+    font-weight: bold;
+}
+
+.txtdesc{
+    font-size: 15px;
+    margin-top: -10px;
+    margin-left: -100px;
+    
+}
